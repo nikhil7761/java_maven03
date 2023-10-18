@@ -7,7 +7,7 @@ clone take project from github
 git clone copy from https
 
 
-git init
+git init   ............
 git ls -a   ... for hidden file
 ls .git
 touch abc.txt ... For creating .txt file
