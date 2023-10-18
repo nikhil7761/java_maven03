@@ -1,4 +1,4 @@
-For Configuration
+For Configuration we are using this
 
 git config --globle user.name "nikhil7761"
 git config --global user.email "nikhilvargude@gmail.com"
