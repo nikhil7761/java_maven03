@@ -14,6 +14,7 @@ touch abc.txt ... For creating .txt file
 git status
 git add .   ....present in current directory
 git commit -m "---message---"
+git add remote origin <repository-link>
 
 then 
 git push origin main
