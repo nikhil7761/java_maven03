@@ -1,0 +1,20 @@
+For Configuration
+
+git config --globle user.name "nikhil7761"
+git config --global user.email "nikhilvargude@gmail.com"
+
+clone take project from github
+git clone copy from https
+
+
+git init
+git ls -a   ... for hidden file
+ls .git
+touch abc.txt ... For creating .txt file
+git status
+git add .   ....present in current directory
+git commit -m "---message---"
+
+then 
+git push origin main
+
