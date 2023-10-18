@@ -1,9 +1,1 @@
-Good morning sir,
-Simple File created and pushed on GitHub
-
-on that file implemented webhook(for GitHub Jenkins integration) 
-developer doing any changes on that file and commit it
-
-Then Jenkins automatically builds that job we don't need to be 
-manually hit the button build now     
 
